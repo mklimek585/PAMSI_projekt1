@@ -1,0 +1,17 @@
+# ninja log v5
+2	260	1648721529880804264	CMakeFiles/PAMSI_projekt1_run.dir/src/tests.cpp.o	38ae79cb92cf3308
+3	546	1648721529386777312	CMakeFiles/PAMSI_projekt1_lib.dir/src/tests.cpp.o	b86c3f833aaa55f4
+1	226	1648636453956246212	CMakeFiles/PAMSI_projekt1_lib.dir/src/functions.cpp.o	ef22add084168d63
+1	535	1648722468549795822	CMakeFiles/PAMSI_projekt1_lib.dir/src/main.cpp.o	527ad3f20cd9bcd9
+535	553	1648722468571371000	libPAMSI_projekt1_lib.a	d2205bea030fa815
+1	243	1648722468913372282	CMakeFiles/PAMSI_projekt1_run.dir/src/main.cpp.o	56e78dfb2cb76a89
+1	230	1648636454271964342	CMakeFiles/PAMSI_projekt1_run.dir/src/functions.cpp.o	6057880b53e0e529
+243	287	1648722468959235996	PAMSI_projekt1_run	e432674b07d1faa0
+1	463	1648821662842953801	CMakeFiles/PAMSI_projekt1_lib.dir/src/functions.cpp.o	846793d73c440977
+2	483	1648821662863385976	CMakeFiles/PAMSI_projekt1_lib.dir/src/tests.cpp.o	9c2162edb5dda430
+1	489	1648821662869721947	CMakeFiles/PAMSI_projekt1_lib.dir/src/main.cpp.o	97226d627f1cedec
+489	511	1648821662894679000	libPAMSI_projekt1_lib.a	d2205bea030fa815
+1	237	1648821663261741668	CMakeFiles/PAMSI_projekt1_run.dir/src/functions.cpp.o	701965d50b0a106b
+1	271	1648821663297594522	CMakeFiles/PAMSI_projekt1_run.dir/src/tests.cpp.o	f3ca8ece875ef59
+1	271	1648821663297392824	CMakeFiles/PAMSI_projekt1_run.dir/src/main.cpp.o	d596c271c6103eb4
+271	313	1648821663340796296	PAMSI_projekt1_run	e432674b07d1faa0
